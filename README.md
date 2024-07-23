@@ -12,13 +12,13 @@
   <tr>
     <td>
       <h3>Habilidades:</h3>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/Dudda-soares/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudda-soares&layout=donut&theme=dracula" alt="Top Langs">
       </a>
     </td>
     <td>
       <h3>Detalhes:</h3>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/Dudda-soares/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=dudda-soares&show_icons=true&theme=dracula" alt="GitHub Stats">
       </a>
     </td>
@@ -27,7 +27,7 @@
 
 ### Projetos
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Dudda-soares/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=SCCP-Corinthians&theme=dracula" alt="Readme_Card">
 </a>
 
