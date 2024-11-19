@@ -4,7 +4,13 @@
 ## Olá,Me chamo Eduarda 😊
 ... Fullstack Developer JAVA! 🖥
 ### Sobre mim: 👩🏻‍🦰
-... Após uma carreira de sete anos no setor bancário, decidi mudar de rumo e me especializar como desenvolvedor Full Stack Java. Durante minha trajetória no banco, adquiri uma experiência sólida em operações complexas, atendimento ao cliente e gestão de projetos, habilidades que agora aplico na área de desenvolvimento de software. Estou empenhado em utilizar meu novo conhecimento em Java para criar soluções inovadoras e eficientes, desenvolvendo aplicações robustas que atendam às necessidades do mercado em constante evolução.
+... 👋 Olá! Eu sou a Eduarda  
+💼 Em transição de carreira do sistema financeiro para desenvolvimento de software  
+🎯 Estudando para me tornar Desenvolvedor Full Stack Java  
+🌐 Conhecimentos iniciais em front-end (HTML, CSS, JavaScript, bootstrap e media queries)  
+🚀 Buscando aprimorar habilidades e colaborar em projetos reais  
+📚 Apaixonado por aprendizado contínuo e resolução de problemas complexos  
+📫 Como me encontrar: eduarda.soaresdsantos@gmail.com | [LinkedIn](https://www.linkedin.com/in/eduardassoares/)
 
 ### Habilidades e Detalhes
 
