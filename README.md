@@ -2,7 +2,7 @@
 
 
 ## Olá,Me chamo Eduarda 😊
-... Fullstack Developer! 🖥
+... Fullstack Developer JAVA! 🖥
 ### Sobre mim: 👩🏻‍🦰
 ... Após uma carreira de sete anos no setor bancário, decidi mudar de rumo e me especializar como desenvolvedor Full Stack Java. Durante minha trajetória no banco, adquiri uma experiência sólida em operações complexas, atendimento ao cliente e gestão de projetos, habilidades que agora aplico na área de desenvolvimento de software. Estou empenhado em utilizar meu novo conhecimento em Java para criar soluções inovadoras e eficientes, desenvolvendo aplicações robustas que atendam às necessidades do mercado em constante evolução.
 
@@ -28,7 +28,16 @@
 ### Projetos
 
 <a href="https://github.com/Dudda-soares/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=SCCP-Corinthians&theme=dracula" alt="Readme_Card">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=Projeto-vintage-co&theme=dracula" alt="Readme_Card">
+</a>
+<a href="https://github.com/Dudda-soares/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=Atv-Projeto3&theme=dracula" alt="Readme_Card">
+</a>
+<a href="https://github.com/Dudda-soares/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=Projeto-bootstrap&theme=dracula" alt="Readme_Card">
+</a>
+<a href="https://github.com/Dudda-soares/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=Atividade-js&theme=dracula" alt="Readme_Card">
 </a>
 
 
