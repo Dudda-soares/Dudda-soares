@@ -34,7 +34,7 @@
 ### Projetos
 
 <a href="https://github.com/Dudda-soares/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=Projeto-vintage-co&theme=dracula" alt="Readme_Card">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=Atv-mod18&theme=dracula" alt="Readme_Card">
 </a>
 <a href="https://github.com/Dudda-soares/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=dudda-soares&repo=Atv-Projeto3&theme=dracula" alt="Readme_Card">
