@@ -2,7 +2,7 @@ name: Update README with Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Atualiza a cada 12 horas
+    - cron: "0 */12 * * *" # Atualiza a cada 12 horasok
   workflow_dispatch:
 
 jobs:
